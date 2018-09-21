@@ -1,0 +1,162 @@
+/*
+Theme Name: spacious-child
+Template: spacious
+Theme URI: https://themegrill.com/themes/spacious
+Author: ThemeGrill
+Author URI: https://themegrill.com
+Description: Spacious is an incredibly spacious multipurpose responsive theme coded & designed with a lot of care and love. You can use it for your business, portfolio, blogging or any type of site. It has 4 page layouts, 2 page templates, 4 blog display types, 13 widgets areas, 5 custom widgets focusing on business template, awesome slider, primary color option to match your logo & website, boxed & wide layout, light & dark color skin, translation ready and many more. You can get free support in https://themegrill.com/support-forum/ and check the demo at https://demo.themegrill.com/spacious/.
+Version: 1.5.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, left-sidebar, flexible-header, custom-header, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, featured-images, theme-options, footer-widgets, blog, e-commerce, rtl-language-support
+Text Domain: spacious
+
+Resetting and rebuilding styles have been helped along thanks to the fine work of
+Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
+along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+and Blueprint http://www.blueprintcss.org/
+*/
+
+.wpcf7-form-control.wpcf7-text{
+	width: 30%;
+}
+
+.wpcf7{
+	text-align: center;
+}
+
+.wpcf7-form-control.wpcf7-textarea{
+	height: 100px;
+	width: 30%;
+}
+
+.wpcf7-form-control.wpcf7-select{
+	width: 20%;
+}
+
+.entry-content.clearfix{
+	margin-top: -120px;
+}
+
+.article h1{
+	font-size: 1.2em;
+	margin-left: -100px;
+}
+
+#page{
+	background-color: rgb(245, 238, 250);
+}
+
+#site-navigation a{
+	margin-top: 20px;
+}
+
+#header-text-nav-container{
+	position: fixed;
+	margin-top: -100px;
+	background: rgb(244, 235, 204);
+	width: 100%;
+	left: 0;
+	z-index: 1;
+}
+
+.inner-wrap{
+	margin-top: 100px;
+}
+
+#featured-slider{
+	z-index: 0;
+}
+
+#featured-slider img{
+	height: 600px;
+	width: 100%;
+}
+
+.entry-container {
+	margin-left: 150px;
+	margin-top: 100px;
+}
+
+.entry-description-container .entry-content p{
+	font-size: 1.5em;
+}
+
+.pos_art{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.article, .ville{
+	width: 400px;
+	text-align: center;
+}
+
+.ville p{
+	font-size: 1.3em;
+}
+
+.titre_actu{
+	font-size: 2em;
+	margin-bottom: 80px;
+	margin-top: -100px;
+}
+
+.insc{
+	color: black;
+	position: absolute;
+	right: 100px;
+	margin-top: -15px;
+	border: 1px solid black;
+	padding: 3px;
+}
+
+.css-events-list{
+	position: absolute;
+	width: 50%;
+	margin-left: 300px;
+}
+
+#primary{
+	height: 600px;
+}
+
+.events-table tr:hover{
+	background-color: rgb(216, 249, 252);
+}
+
+.insc:hover{
+	background-color: rgb(6, 138, 162);
+	color: white;
+}
+
+.em-search-wrapper{
+	width: 100%;
+	margin-left: 100px;
+}
+
+#post-362{
+	width: 100%;
+}
+
+.tcpc-item-image{
+	width: 360px;
+	height: 230px;
+}
+
+.tcpc-single-product{
+	margin-left: 60px;
+}
+
+.entry-content.clearfix{
+	margin-left: -100px;
+}
+
+.inner-wrap{
+	text-align: center;
+}
+
+.img_des{
+	margin-left: 30px;
+}
