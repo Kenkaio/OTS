@@ -28,7 +28,7 @@ define('DB_USER', 'dbo752837089');
 
 /** Mot de passe de la base de données MySQL. */
 /*define('DB_PASSWORD', '');*/
-define('DB_PASSWORD', 'aM3lie<33');
+define('DB_PASSWORD', 'OTstrasbourg07+');
 
 /** Adresse de l’hébergement MySQL. */
 /*define('DB_HOST', 'localhost');*/
